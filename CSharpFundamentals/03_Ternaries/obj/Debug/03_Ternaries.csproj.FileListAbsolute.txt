@@ -1,0 +1,7 @@
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_Ternaries\bin\Debug\03_Ternaries.exe.config
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_Ternaries\bin\Debug\03_Ternaries.exe
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_Ternaries\bin\Debug\03_Ternaries.pdb
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_Ternaries\obj\Debug\03_Ternaries.csprojAssemblyReference.cache
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_Ternaries\obj\Debug\03_Ternaries.csproj.CoreCompileInputs.cache
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_Ternaries\obj\Debug\03_Ternaries.exe
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_Ternaries\obj\Debug\03_Ternaries.pdb

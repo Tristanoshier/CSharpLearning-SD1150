@@ -1,0 +1,7 @@
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_SwitchCases\bin\Debug\03_SwitchCases.exe.config
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_SwitchCases\bin\Debug\03_SwitchCases.exe
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_SwitchCases\bin\Debug\03_SwitchCases.pdb
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_SwitchCases\obj\Debug\03_SwitchCases.csprojAssemblyReference.cache
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_SwitchCases\obj\Debug\03_SwitchCases.csproj.CoreCompileInputs.cache
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_SwitchCases\obj\Debug\03_SwitchCases.exe
+C:\Users\trist\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\CSharpFundamentals\03_SwitchCases\obj\Debug\03_SwitchCases.pdb
